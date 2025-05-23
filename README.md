@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adil Imran — aka King 🤴</h1>
+<h1 align="center">Hi 👋, I'm Adil Imran  🤴</h1>
 <h3 align="center">An aspiring AI Engineer from Hyderabad, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil04imran&label=Profile%20views&color=0e75b6&style=flat" alt="adil04imran" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, AI/ML, YOLOv5, Streamlit, Deep Learning**
 
-- 📫 How to reach me **adil04imran@gmail.com**
+- 📫 How to reach me **contact.adilimran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
