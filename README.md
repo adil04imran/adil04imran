@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Adil Imran (a.k.a King)
+# 👋 Hi there, I'm Adil Imran
 
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science (AI & ML)
