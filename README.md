@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science (AI & ML)
 - 💻 Passionate about AI Engineering, ML, and Real-Time Applications
-- 🔭 Currently working on: OpenCv,Med Tech
+- 🔭 Currently working on: OpenCv , Med Tech
 - 🌱 Learning: Deep Learning, MLOps & Data Engineering
 - 🏆 Winner at Gen AI Hackathon
 
