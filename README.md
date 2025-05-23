@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Imran!</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Aspiring AI Engineer | B.Tech CSE Student from Hyderabad, India 🇮🇳</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | Aspiring AI Engineer | B.Tech CSE(AIML) Student from Hyderabad, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=AI+Engineer+in+the+Making;Deep+Learning+Explorer;Real-Time+Computer+Vision+Projects;Building+Cool+Stuff+with+Python" alt="Typing Animation" />
@@ -18,8 +18,8 @@
   - 🧠 Real-time **MediRead – AI-Powered Prescription Analyzer and Health Advisor** 
   - 🌍 **Disaster Prediction** using satellite data and deep learning
   
-- 🌱 Learning **Transformers**, **Computer Vision**, and **ML Deployment**
-- 📫 Reach me at: **adilmranofficial@gmail.com**
+- 🌱 Learning **Transformers**, **Computer Vision**, **ML Deployment**, **Quantum Machine Learning** and **Agentic AI Systems**
+- 📫 Reach me at: **contact.adilimran@gmail.com**
 - 💬 Ask me about: `Python`, `Deep Learning`, `OpenCV`, `AI Projects`
 - 🧠 Fun fact: I love turning complex models into intuitive apps!
 
