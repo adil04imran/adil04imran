@@ -18,7 +18,7 @@
   - 🧠 Real-time **MediRead – AI-Powered Prescription Analyzer and Health Advisor** 
   - 🌍 **Disaster Prediction** using satellite data and deep learning
   
-- 🌱 Learning **Transformers**, **Computer Vision**, **ML Deployment**, **Quantum Machine Learning** and **Agentic AI Systems**
+- 🌱 Learning **Transformers**, **ML Deployment**, **Quantum Machine Learning** and **Agentic AI Systems**
 - 📫 Reach me at: **contact.adilimran@gmail.com**
 - 💬 Ask me about: `Python`, `Deep Learning`, `OpenCV`, `AI Projects`
 - 🧠 Fun fact: I love turning complex models into intuitive apps!
