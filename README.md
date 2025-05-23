@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science (AI & ML)
 - 💻 Passionate about AI Engineering, ML, and Real-Time Applications
-- 🔭 Currently working on: Object Detection, Translation Tools & Bots
+- 🔭 Currently working on: OpenCv,Med Tech
 - 🌱 Learning: Deep Learning, MLOps & Data Engineering
 - 🏆 Winner at Gen AI Hackathon
 
@@ -19,5 +19,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil04imran&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilimran04)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
