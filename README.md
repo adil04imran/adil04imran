@@ -15,9 +15,9 @@
 
 - 🎓 Pursuing B.Tech in CSE with specialization in **AI & ML**
 - 🔭 Currently working on:
-  - 🧠 Real-time **Object Detection & Tracking** using YOLOv5
+  - 🧠 Real-time **MediRead – AI-Powered Prescription Analyzer and Health Advisor** 
   - 🌍 **Disaster Prediction** using satellite data and deep learning
-  - 🧩 **Language Translation Tool** using Streamlit & MarianMT
+  
 - 🌱 Learning **Transformers**, **Computer Vision**, and **ML Deployment**
 - 📫 Reach me at: **adilmranofficial@gmail.com**
 - 💬 Ask me about: `Python`, `Deep Learning`, `OpenCV`, `AI Projects`
